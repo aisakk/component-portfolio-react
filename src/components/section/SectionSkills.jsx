@@ -33,8 +33,7 @@ function SectionSkills(props) {
                   <div className="col-lg-4 col-md-3 col-sm-3">
                     <ul>
                       <li>PHP (Laravel)</li>
-                      <li>CSHARP (.NET)</li>
-                      <li>JAVA</li>
+                      <li>JAVA (Spring Boot)</li>
                     </ul>
                   </div>
                   <div className="col-lg-4 col-md-3 col-sm-3">
@@ -83,8 +82,8 @@ function SectionSkills(props) {
                 </div>
                 <div className="container-img">
                   <img
-                    src="imagenes/icons8-c-sharp-logotipo.svg"
-                    alt="icono csharp"
+                    src="imagenes/icons8-spring-boot-48.png"
+                    alt="icono spring-boot"
                   />
                 </div>
                 <div className="container-img">
